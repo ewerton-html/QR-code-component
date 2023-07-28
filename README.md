@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -32,14 +30,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is my first project using SASS, although it was not complex, I learned a lot about its syntax
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Profile - [Ewerton Silva](https://github.com/ewerton-html)
 - Frontend Mentor - [Eweron Silva](https://www.frontendmentor.io/profile/Ewerton-Tv)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
